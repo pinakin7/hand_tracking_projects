@@ -1,0 +1,16 @@
+absl-py==0.12.0
+attrs==21.2.0
+autopy==4.0.0
+certifi==2020.12.5
+comtypes==1.1.10
+enum34==1.1.10
+future==0.18.2
+mediapipe==0.8.4.2
+numpy==1.20.3
+opencv-contrib-python==4.5.2.52
+opencv-python==4.5.2.52
+protobuf==3.17.1
+psutil==5.8.0
+pycaw==20181226
+six==1.16.0
+wincertstore==0.2
